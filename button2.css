@@ -1,0 +1,23 @@
+.teams1 {
+    color: white;
+    background-color: blue;
+}
+
+div {
+    margin: 10px;
+}
+
+body {
+    background-image: url(NFL-logo-cover2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#header1 {
+    font-size: xx-large;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
